@@ -1,3 +1,5 @@
+
+
 text1 = input("Enter the first: ")
 text2 = input("Enter the second: ")
 
