@@ -12,10 +12,7 @@ class Timer:
         self.__sc = sc
         self.__str__()
 
-
-
     def __str__(self):
-
         return format(self.__hr) + ":" + format(self.__mm) + ":" + format(self.__sc)
 
     def next_second(self):
